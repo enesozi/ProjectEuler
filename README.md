@@ -9,4 +9,4 @@
 #### [Problem8](https://projecteuler.net/problem=8)
 #### [Problem34](https://projecteuler.net/problem=34) 
 #### [Problem35](https://projecteuler.net/problem=35) 
-#### [Problem35](https://projecteuler.net/problem=36) 
+#### [Problem36](https://projecteuler.net/problem=36) 
