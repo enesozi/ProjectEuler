@@ -12,7 +12,7 @@ def sieve(n):
 	primes = np.full(n,True,dtype=bool)
 	primes[0] = False 
 	primes[1] = False
-	for i in range(2,floor(sqrt(n))):
+	for i in range(2,floor(sqrt(n))+1):
 		if(primes[i]):
 			for j in range(i*i,n,i):
 				primes[j] = False
