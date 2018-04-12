@@ -8,6 +8,7 @@
 #### [Problem7](https://projecteuler.net/problem=7)
 #### [Problem8](https://projecteuler.net/problem=8)
 #### [Problem9](https://projecteuler.net/problem=9)
+#### [Problem10](https://projecteuler.net/problem=10)
 #### [Problem34](https://projecteuler.net/problem=34) 
 #### [Problem35](https://projecteuler.net/problem=35) 
 #### [Problem36](https://projecteuler.net/problem=36) 
