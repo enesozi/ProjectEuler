@@ -10,6 +10,7 @@
 #### [Problem9](https://projecteuler.net/problem=9)
 #### [Problem10](https://projecteuler.net/problem=10)
 #### [Problem11](https://projecteuler.net/problem=11)
+#### [Problem12](https://projecteuler.net/problem=12)
 #### [Problem34](https://projecteuler.net/problem=34) 
 #### [Problem35](https://projecteuler.net/problem=35) 
 #### [Problem36](https://projecteuler.net/problem=36) 
