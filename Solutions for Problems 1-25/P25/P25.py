@@ -1,5 +1,3 @@
-import numpy as np
-
 def main():
 	max_len = 1000
 	f_1 = 1
