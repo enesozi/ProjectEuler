@@ -21,6 +21,7 @@
 - [Problem21](https://projecteuler.net/problem=21)
 - [Problem24](https://projecteuler.net/problem=24)
 - [Problem25](https://projecteuler.net/problem=25)
+- [Problem30](https://projecteuler.net/problem=30)
 - [Problem34](https://projecteuler.net/problem=34) 
 - [Problem35](https://projecteuler.net/problem=35) 
 - [Problem36](https://projecteuler.net/problem=36) 
