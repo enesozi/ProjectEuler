@@ -25,3 +25,4 @@
 - [Problem34](https://projecteuler.net/problem=34) 
 - [Problem35](https://projecteuler.net/problem=35) 
 - [Problem36](https://projecteuler.net/problem=36) 
+- [Problem42](https://projecteuler.net/problem=42) 
